@@ -1,0 +1,75 @@
+header {
+    background-color: #004687;
+}
+
+main {
+    background-color: #BD9B60;
+}
+
+footer {
+    background-color: #004687;
+}
+
+/* Top Section */
+
+.top-section {
+    padding-top: 10px;  
+    height: 220px;
+}
+.title {
+    width: 33%;
+    position: relative;
+    top: 80px;
+    margin-left: 10px;
+    
+}
+
+.title-image {
+    width: 25%;
+    position: relative;
+    left: 5%;
+    bottom: 100px;
+    
+}
+
+.bobby-image {
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+.title-name {
+    color: #7bb2dd;
+    font-family: 'Monoton', cursive;
+    font-size: 72px;
+}
+
+.nav-bar {
+    width: 33%;
+    position: absolute;
+    right: 40px;
+    top: 80px;
+}
+
+.nav-bar li {
+    display: inline-block;
+    font-size: 32px;
+    margin: 10px;
+}
+
+.nav-bar a {
+    color: #7bb2dd;
+    text-decoration: none;
+}
+
+.nav-bar a:hover {
+    color: #BD9B60;
+}
+
+
+/* Main Section */
+
+.card {
+    padding: 100px;
+    text-align: center;
+}
